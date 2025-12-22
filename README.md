@@ -15,7 +15,7 @@ This directory contains utilities for preparing and processing datasets for YOLO
 
 # Enivornment installation
 
-Install pytorch >= v2.0.0 following official instruction.
+Install pytorch >= v2.0.0 following official instruction https://pytorch.org/.
 
 # Install dependencies
 
