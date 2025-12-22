@@ -27,7 +27,7 @@ unzip train2017.zip
 unzip val2017.zip
 unzip annotations_trainval2017.zip
 
-**Structure:**
+Structure
 coco/
 ├── annotations/
 │   ├── person_keypoints_train2017.json
