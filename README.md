@@ -54,4 +54,4 @@ main/train.py \
   --data data/coco-pose.yaml \
   --epochs 100 \
   --batch-size 16 \
-  --weights yolov8s-pose.pt
+  --weights yolov8s-radpose.pt
