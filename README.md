@@ -13,6 +13,14 @@ This directory contains utilities for preparing and processing datasets for YOLO
 
 # InHARD: http://inhard-dataset.iais.fraunhofer.de/
 
+# Enivornment installation
+
+Install pytorch >= v2.1.1 following official instruction.
+Clone this repo, and we'll call the directory that you cloned as ${POSE_ROOT}.
+
+# Install dependencies
+
+pip install -r requirements.txt
 
 ### 1. MS COCO
 **Download:**
