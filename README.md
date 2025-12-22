@@ -14,7 +14,12 @@ This directory contains utilities for preparing and processing datasets for YOLO
 
 # InHARD: http://inhard-dataset.iais.fraunhofer.de/
 
+## ⚡ Quick Start
 # Enivornment installation
+```bash
+# Clone repository
+git clone https://github.com/YOUR_USERNAME/YOLOv8-RADPose.git
+cd YOLOv8-RADPose
 
 Install pytorch >= v2.0.0 following official instruction https://pytorch.org/.
 
@@ -23,11 +28,11 @@ Install pytorch >= v2.0.0 following official instruction https://pytorch.org/.
 pip install -r requirements.txt
 
 **Core requirements:**
-# Python 3.9+
-# PyTorch 2.0+
-# CUDA 11.8+ (for GPU acceleration)
-# Ultralytics 8.0+
-# OpenCV 4.7+
+Python 3.9+
+PyTorch 2.0+
+CUDA 11.8+ (for GPU acceleration)
+Ultralytics 8.0+
+OpenCV 4.7+
 
 ### 1. MS COCO
 **Download:**
