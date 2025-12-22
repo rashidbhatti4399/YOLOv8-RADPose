@@ -48,8 +48,8 @@ unzip annotations_trainval2017.zip
 
 ### GPU Training
 main/train.py \
-  --config configs/train_config.yaml \
-  --data data/coco.yaml \
-  --epochs 300 \
-  --batch-size 64 \
+  --config configs/yolov8_radpose.yaml \
+  --data data/coco-pose.yaml \
+  --epochs 100 \
+  --batch-size 16 \
   --weights yolov8s-pose.pt
