@@ -45,7 +45,8 @@ wget http://images.cocodataset.org/annotations/image_info_test2017.zip
 unzip train2017.zip
 unzip val2017.zip
 unzip annotations_trainval2017.zip
-
+### Pretrained weight
+https://drive.google.com/file/d/1rVENJ2n_u-Djf55bJAzhLqU8gPlPpEBQ/view?usp=drive_link
 ### GPU Training
 main/train.py \
   --config configs/yolov8_radpose.yaml \
