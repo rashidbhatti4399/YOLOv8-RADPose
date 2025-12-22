@@ -29,12 +29,9 @@ CUDA 11.8+ (for GPU acceleration)
 Ultralytics 8.0+
 OpenCV 4.7+
 
+### 📁 Dataset Preparation
 ### 1. MS COCO
 **Download:**
-```bash
-mkdir -p data/coco
-cd data/coco
-
 # Download images (2017 version)
 wget http://images.cocodataset.org/zips/train2017.zip
 wget http://images.cocodataset.org/zips/val2017.zip
@@ -48,3 +45,11 @@ wget http://images.cocodataset.org/annotations/image_info_test2017.zip
 unzip train2017.zip
 unzip val2017.zip
 unzip annotations_trainval2017.zip
+
+### GPU Training
+main/train.py \
+  --config configs/train_config.yaml \
+  --data data/coco.yaml \
+  --epochs 300 \
+  --batch-size 64 \
+  --weights yolov8s-pose.pt
