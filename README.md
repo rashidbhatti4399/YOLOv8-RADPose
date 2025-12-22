@@ -15,8 +15,7 @@ This directory contains utilities for preparing and processing datasets for YOLO
 
 # Enivornment installation
 
-Install pytorch >= v2.1.1 following official instruction.
-Clone this repo, and we'll call the directory that you cloned as ${POSE_ROOT}.
+Install pytorch >= v2.0.0 following official instruction.
 
 # Install dependencies
 
