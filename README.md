@@ -1,7 +1,7 @@
 # YOLOv8-RADPose
 Official implementation of 'Enhancing Industrial Human Pose Estimation through Hybrid Transformer-CNN Architecture
 
-Human pose estimation (HPE) plays a pivotal role in modern industrial systems, particularly in human-robot collaboration (HRC). Accurate and real-time HPE under challenging conditions such as occlusion, irregular body orientation, and complex lighting is essential for safety-critical decision-making. This paper introduces YOLOv8-RADPose, a hybrid Transformer-CNN architecture that integrates Resolution-Aware Dense (RAD) Transformer blocks into the YOLOv8 pipeline. The proposed architecture enhances feature extraction and global contextual reasoning, achieving significant improvements in accuracy and robustness
+Human pose estimation (HPE) plays a pivotal role in modern industrial systems, particularly in human-robot collaboration (HRC). Accurate and real-time HPE under challenging conditions such as occlusion, irregular body orientation, and complex lighting is essential for safety-critical decision-making. This paper introduces YOLOv8-RADPose, a hybrid Transformer-CNN architecture that integrates Resolution-Aware Dense (RAD) Transformer blocks into the YOLOv8 pipeline. The proposed architecture enhances feature extraction and global contextual reasoning, achieving significant improvements in accuracy and robustness.
 # Dataset Preparation
 
 This directory contains utilities for preparing and processing datasets for YOLOv8-RADPose.
