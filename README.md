@@ -52,3 +52,18 @@ main/train.py \
   --epochs 100 \
   --batch-size 16 \
   --weights yolov8s-radpose.pt
+
+## 📝 Citation
+
+**Note from the Authors:**  
+This code repository is directly related to the manuscript titled *"Enhancing Industrial Human Pose Estimation through Hybrid Transformer-CNN Architecture"* currently submitted to **The Visual Computer** journal. If you use this code, please consider citing our work.
+
+```bibtex
+@article{yolov8radpose2025,
+  title={Enhancing Industrial Human Pose Estimation through Hybrid Transformer-CNN Architecture},
+  author={Muhammad Rashid, Junfeng Wangand Ahmed, Sulman},
+  journal={The Visual Computer},
+  year={2025},
+  note={Submitted},
+  url={https://github.com/rashidbhatti4399/YOLOv8-RADPose}
+}
