@@ -18,7 +18,7 @@ class RADPoseBlock(nn.Module):
         self.norm1 = nn.LayerNorm(c)
         self.norm2 = nn.LayerNorm(c)
 
-        # Default positional embedding initialized for 8x8 (can be interpolated)
+        # positional embedding initialized for 8x8 (can be interpolated)
         self.register_parameter("pos_embed", nn.Parameter(torch.zeros(1, 64, c)))
         nn.init.trunc_normal_(self.pos_embed, std=0.02)
 
