@@ -61,7 +61,7 @@ This code repository is directly related to the manuscript titled *"Enhancing In
 ```bibtex
 @article{yolov8radpose2025,
   title={Enhancing Industrial Human Pose Estimation through Hybrid Transformer-CNN Architecture},
-  author={Muhammad Rashid, Junfeng Wangand Ahmed, Sulman},
+  author={Muhammad Rashid, Junfeng Wang and, Sulman Ahmed},
   journal={The Visual Computer},
   year={2025},
   note={Submitted},
