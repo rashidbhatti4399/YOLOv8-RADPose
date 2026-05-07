@@ -56,14 +56,14 @@ main/train.py \
 ## 📝 Citation
 
 **Note from the Authors:**  
-This code repository is directly related to the manuscript titled *"Enhancing Industrial Human Pose Estimation through Hybrid Transformer-CNN Architecture"* currently submitted to **The Visual Computer** journal. If you use this code, please consider citing our work.
+This code repository is directly related to the manuscript titled *"Enhancing Industrial Human Pose Estimation through Hybrid Transformer-CNN Architecture"* currently submitted to **The Journal of Supercomputing** journal. If you use this code, please consider citing our work.
 
 ```bibtex
 @article{yolov8radpose2025,
   title={Enhancing Industrial Human Pose Estimation through Hybrid Transformer-CNN Architecture},
   author={Muhammad Rashid, Junfeng Wang and, Sulman Ahmed},
-  journal={The Visual Computer},
-  year={2025},
+  journal={The Journal of Supercomputing},
+  year={2026},
   note={Submitted},
   url={https://github.com/rashidbhatti4399/YOLOv8-RADPose}
 }
