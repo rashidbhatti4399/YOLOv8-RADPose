@@ -49,7 +49,7 @@ https://drive.google.com/file/d/1rVENJ2n_u-Djf55bJAzhLqU8gPlPpEBQ/view?usp=shari
 main/train.py \
   --config configs/yolov8_radpose.yaml \
   --data data/coco-pose.yaml \
-  --epochs 100 \
+  --epochs 250 \
   --batch-size 16 \
   --weights yolov8s-radpose.pt
 
@@ -64,6 +64,6 @@ This code repository is directly related to the manuscript titled *"Enhancing In
   author={Muhammad Rashid, Junfeng Wang and, Sulman Ahmed},
   journal={The Journal of Supercomputing},
   year={2026},
-  note={Submitted},
+  note={Under-Review},
   url={https://github.com/rashidbhatti4399/YOLOv8-RADPose}
 }
