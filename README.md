@@ -64,6 +64,5 @@ This code repository is directly related to the manuscript titled *"Enhancing In
   author={Muhammad Rashid, Junfeng Wang and, Sulman Ahmed},
   journal={The Journal of Supercomputing},
   year={2026},
-  note={Under-Review},
   url={https://github.com/rashidbhatti4399/YOLOv8-RADPose}
 }
