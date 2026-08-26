@@ -56,7 +56,7 @@ main/train.py \
 ## 📝 Citation
 
 **Note from the Authors:**  
-This code repository is directly related to the manuscript titled *"Enhancing Industrial Human Pose Estimation through Hybrid Transformer-CNN Architecture"* currently submitted to **The Journal of Supercomputing** journal. If you use this code, please consider citing our work.
+This code repository is directly related to the manuscript titled *"Enhancing Industrial Human Pose Estimation through Hybrid Transformer-CNN Architecture"* Published in **The Journal of Supercomputing** journal. If you use this code, please consider citing our work.
 
 ```bibtex
 @article{yolov8radpose2025,
